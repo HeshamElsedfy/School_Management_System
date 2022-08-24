@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1630489066 source:c:\users\pc\desktop\nti embedded c course\finalproject\school2.0\main.c
+	<stdio.h>
+	"School.h"
+
+1630496536 c:\users\pc\desktop\nti embedded c course\finalproject\school2.0\school.h
+	<stdbool.h>
+
+1630523296 source:c:\users\pc\desktop\nti embedded c course\finalproject\school2.0\tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+	"School.h"
+
+1630482099 c:\users\pc\desktop\nti embedded c course\finalproject\school2.0\tree.h
+	"School.h"
+
+1630586682 source:c:\users\pc\desktop\nti embedded c course\finalproject\school2.0\school.c
+	<stdio.h>
+	"School.h"
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	"Tree.h"
+
